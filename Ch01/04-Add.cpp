@@ -16,4 +16,6 @@ int main() {
     std::cout << user1 << " + " << user2 << " = " << user1 + user2 << "\n";
     std::cout << user1 << " - " << user2 << " = " << user1 - user2 << "\n";
     std::cout << user2 << " - " << user1 << " = " << user2 - user1 << "\n";
+
+    return 0;
 }

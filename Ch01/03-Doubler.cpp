@@ -16,4 +16,6 @@ int main() {
 
     //Bonus! Output tripled number
     std::cout << "Triple that number is: " << 3*userNumber << "\n";
+
+    return 0;
 }
